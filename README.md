@@ -69,6 +69,10 @@ NOTA: Si no te aparencen las Placas Minicore Utiliza este Json reinicia tu IDE y
 El cubo se alimenta con una fuente de 5V. Asegúrate de que la fuente pueda entregar la corriente suficiente para alimentar todos los LEDs.
 el consumo total teniento todos lo led encendidos es de aprox de 1amp a 1.5amp no mas de hay todo varia depende del led que uses
 
+## Demo
+
+https://github.com/user-attachments/assets/f515fe18-2103-49e3-8c22-d274ce426c20
+
 ## Youtube 
 
 Sera Subido Pronto!!!
