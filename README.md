@@ -6,7 +6,6 @@ Este proyecto consiste en la construcción de un cubo LED 8x8x8 controlado por u
 
 <img src="https://github.com/BrandonRv/Cubo-8x8x8_effect/blob/main/fotos/cubo_imagen.jpeg" alt="PROJECT_PHOTO" width="600"/>
 
-
 ## Materiales
 
 - 1x ATmega8
